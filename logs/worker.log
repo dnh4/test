@@ -1,0 +1,8 @@
+2023-09-29 17:51:28,495 Worker rq:worker:50d9e0bd2d27483c9335caa90a652f68 started with PID 65092, version 1.15.1
+2023-09-29 17:51:28,495 Subscribing to channel rq:pubsub:50d9e0bd2d27483c9335caa90a652f68
+2023-09-29 17:51:28,496 *** Listening on home-dev-Documents-ERPFRAP-cinema_management:short, home-dev-Documents-ERPFRAP-cinema_management:default, home-dev-Documents-ERPFRAP-cinema_management:long...
+2023-09-29 17:51:28,496 Cleaning registries for queue: home-dev-Documents-ERPFRAP-cinema_management:short
+2023-09-29 17:51:28,497 Cleaning registries for queue: home-dev-Documents-ERPFRAP-cinema_management:default
+2023-09-29 17:51:28,498 Cleaning registries for queue: home-dev-Documents-ERPFRAP-cinema_management:long
+2023-09-29 17:51:52,334 Worker 50d9e0bd2d27483c9335caa90a652f68 [PID 65092]: warm shut down requested
+2023-09-29 17:51:52,339 Unsubscribing from channel rq:pubsub:50d9e0bd2d27483c9335caa90a652f68

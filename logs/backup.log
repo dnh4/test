@@ -1,0 +1,6 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _6d1c10141e206736 -p********** _6d1c10141e206736 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./cinema.com/private/backups/20230929_203002-cinema_com-database.sql.gz
+
+Backup Summary for cinema.com at 2023-09-29 20:30:03.496891
+Config  : ./cinema.com/private/backups/20230929_203002-cinema_com-site_config_backup.json 94.0B
+Database: ./cinema.com/private/backups/20230929_203002-cinema_com-database.sql.gz         1.0MiB
+Backup for Site cinema.com has been successfully completed
